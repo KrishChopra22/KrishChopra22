@@ -5,11 +5,11 @@
 
 ## I'm a Programmer & an Open-Source Enthusiast!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 😭🤣
 - 👯 I’m looking to collaborate with others 🤝
-- 👀 Working on Android Development 
+- 👀 Working on Android Development 👨‍💻
 - 🥅 2022 Goals: Contribute more to Open Source projects 🌏
-- ⚡ Fun fact: I love to do some experiments in life
+- ⚡ Fun fact: I love to do some experiments in life 💥
 
 ### Connect with me:
 
