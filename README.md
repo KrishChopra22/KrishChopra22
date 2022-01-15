@@ -8,7 +8,7 @@
 <p align="center"> <a href="https://twitter.com/krishchopra22" target="blank"><img src="https://img.shields.io/twitter/follow/KrishChopra22?color=00acee&logo=twitter&style=for-the-badge" alt="krishchopra22" /></a> </p>
 
 <h2 align="center"> I am a sophomore pursuing my Bachelor's in Computer Science & Engineering 🎓 
-<br> Member at <b>OpInCo Community</b>
+<br> Member at <i>OpInCo Community</i>
 </h2>
 
 - 🌱 I’m currently learning everything 😭🤣
