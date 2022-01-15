@@ -1,13 +1,15 @@
-### Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Krish Chopra
+<h1 align="center"> Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Krish Chopra </h1>
 
-<p align="left">
-<a href="https://github.com/KrishChopra22" target="blank"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF00&width=380&height=45&lines=Open-Source+Enthusiast;Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+🙃&style=bold" alt="taking time to load" /></a>
+<p align="center">
+<a href="https://github.com/KrishChopra22" target="blank"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF00&width=380&height=45&lines=Open-Source+Enthusiast;Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+🙃&style=bold&center=true" alt="taking time to load" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishchopra22&label=Profile%20views&color=301930&style=bold" alt="krishchopra22" /> </p>
-<p align="left"> <a href="https://twitter.com/krishchopra22" target="blank"><img src="https://img.shields.io/twitter/follow/KrishChopra22?color=00acee&logo=twitter&style=for-the-badge" alt="krishchopra22" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=krishchopra22&label=Profile%20views&color=301930&style=bold" alt="krishchopra22" /> </p>
+<p align="center"> <a href="https://twitter.com/krishchopra22" target="blank"><img src="https://img.shields.io/twitter/follow/KrishChopra22?color=00acee&logo=twitter&style=for-the-badge" alt="krishchopra22" /></a> </p>
 
-## I am a sophomore pursuing my Bachelor's in Computer Science & Engineering 🎓
+<h2 align="center"> I am a sophomore pursuing my Bachelor's in Computer Science & Engineering 🎓 
+<br> Member at <b>OpInCo Community</b>
+</h2>
 
 - 🌱 I’m currently learning everything 😭🤣
 - 👯 I’m looking to collaborate with others 🤝
@@ -30,10 +32,14 @@
 <hr>
 
 # GitHub Stats
-![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishchopra22&show_icons=true&locale=en&theme=highcontrast)
+![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishchopra22&show_icons=true&locale=en&theme=highcontrast&hide_border=true&color=FFFF00)
 
 # Top Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishChopra22&layout=compact&langs_count=10&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishChopra22&layout=compact&langs_count=10&theme=highcontrast&hide_border=true&color=FFFF00)
+
+<br>
+
+![](https://activity-graph.herokuapp.com/graph?username=krishchopra22&theme=react-dark&hide_border=true&color=FFFF00&line=FFFF00)
 
 
 [twitter]: https://twitter.com/krishchopra22
