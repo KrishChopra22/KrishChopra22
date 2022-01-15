@@ -32,14 +32,12 @@
 <hr>
 
 # GitHub Stats
-![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishchopra22&show_icons=true&locale=en&theme=highcontrast&hide_border=true&color=FFFF00)
+![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishchopra22&show_icons=true&locale=en&theme=highcontrast&bg_color=0D1117&hide_border=true&color=FFFF00)
 
 # Top Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishChopra22&layout=compact&langs_count=10&theme=highcontrast&hide_border=true&color=FFFF00)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishChopra22&layout=compact&langs_count=10&theme=highcontrast&bg_color=0D1117&hide_border=true&color=FFFF00)
 <br>
-
-![](https://activity-graph.herokuapp.com/graph?username=krishchopra22&theme=react-dark&hide_border=true&color=FFFF00&line=FFFF00)
+![](https://activity-graph.herokuapp.com/graph?username=krishchopra22&theme=react-dark&bg_color=0D1117&hide_border=true&color=FFFF00&line=FFFF00)
 
 
 [twitter]: https://twitter.com/krishchopra22
