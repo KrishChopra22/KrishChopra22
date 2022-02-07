@@ -19,6 +19,7 @@
 
 ### Connect with me:
 
+<a href="https://www.leetcode.com/krishchopra22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Krish Chopra" height="30" width="40" /></a>
 <a href="https://twitter.com/krishchopra22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Krish Chopra" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/krishchopra22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Krish Chopra" height="30" width="40" /></a>
 <a href="https://instagram.com/__s_e_c_r_e_t__a_r_t_i_s_t__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Krish Chopra" height="30" width="40" /></a>
