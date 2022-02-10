@@ -41,6 +41,7 @@
 ![](https://activity-graph.herokuapp.com/graph?username=krishchopra22&theme=react-dark&bg_color=0D1117&hide_border=true&color=FFFF00&line=FFFF00)
 
 
+[leetcode]: https://leetcode.com/krishchopra22
 [twitter]: https://twitter.com/krishchopra22
 [youtube]: https://youtube.com/channel/UCp8XXwsg-ndmNzKQN7SSLmA
 [instagram]: https://instagram.com/__s_e_c_r_e_t__a_r_t_i_s_t__
