@@ -35,6 +35,9 @@
 # GitHub Stats
 ![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishchopra22&show_icons=true&locale=en&theme=highcontrast&bg_color=0D1117&hide_border=true&color=FFFF00)
 
+# GitHub Activity
+![Krish's GitHub activity](https://github-readme-streak-stats.herokuapp.com/?user=krishchopra22&&langs_count=8&theme=highcontrast&hide_border=true&bg_color=0D1117&color=FFFF00)
+
 # Top Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishChopra22&layout=compact&langs_count=10&theme=highcontrast&bg_color=0D1117&hide_border=true&color=FFFF00)
 <br>
