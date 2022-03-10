@@ -5,7 +5,11 @@
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=krishchopra22&label=Profile%20views&color=301930&style=bold" alt="krishchopra22" /> </p>
-<p align="center"> <a href="https://twitter.com/krishchopra22" target="blank"><img src="https://img.shields.io/twitter/follow/KrishChopra22?color=00acee&logo=twitter&style=for-the-badge" alt="krishchopra22" /></a> </p>
+<p align="center"> <a href="https://twitter.com/krishchopra22" target="blank"><img src="https://img.shields.io/twitter/follow/KrishChopra22?color=00acee&logo=twitter&style=for-the-badge" alt="krishchopra22" /></a>
+
+<br>
+<img align="center" alt="Coffee Comder GIF" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/></p>
+
 
 <h2 align="center"> I am a sophomore pursuing my Bachelor's in Computer Science & Engineering 🎓 
 
