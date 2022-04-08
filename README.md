@@ -8,7 +8,8 @@
 <p align="center"> <a href="https://twitter.com/krishchopra22" target="blank"><img src="https://img.shields.io/twitter/follow/KrishChopra22?color=00acee&logo=twitter&style=for-the-badge" alt="krishchopra22" /></a>
 
 <br>
-<img align="center" alt="Coffee Comder GIF" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/></p>
+<img align="right" alt="Monkey Comder GIF" src="https://user-images.githubusercontent.com/77012237/162477092-ec067cf6-a239-4b9b-8199-a009c645b2c2.gif"/></p>
+
 
 
 <h2 align="center"> I am a sophomore pursuing my Bachelor's in Computer Science & Engineering 🎓 
