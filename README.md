@@ -8,8 +8,35 @@
 <p align="center"> <a href="https://twitter.com/krishchopra22" target="blank"><img src="https://img.shields.io/twitter/follow/KrishChopra22?color=00acee&logo=twitter&style=for-the-badge" alt="krishchopra22" /></a>
 
 <br>
-<img align="right" alt="Monkey Comder GIF" src="https://user-images.githubusercontent.com/77012237/162477092-ec067cf6-a239-4b9b-8199-a009c645b2c2.gif"/></p>
+  
 
+
+[Here's my message to you! run this using Bhailang](https://bhailang.js.org/)
+
+<img align="right" alt="Monkey Comder GIF" src="https://user-images.githubusercontent.com/77012237/162477092-ec067cf6-a239-4b9b-8199-a009c645b2c2.gif" height="445" width="450"/></p>
+  
+``` 
+  hi bhai
+
+    bol bhai "kya haal chaal? sab badhiya na?";
+    bhai ye hai meri = "profile", username = "KrishChopra22";
+    
+    jab tak bhai (sahi) {
+        bol bhai "kaisi lagi meri README? 🙃";
+        agar bhai (username != "KrishChopra22"){
+            bol bhai "kya kar raha hai tu!?";
+            agla dekh bhai;
+        }
+        warna bhai {
+            bol bhai "shabaash!!! 🎉";
+            bas kar bhai;
+        }
+    }
+    
+    bol bhai "ye code churayega to nhi? 🌚 aur agar pasand aaya to ⭐ de dena bhai.. theek hai bhai 👋🏻";
+
+  bye bhai  
+```
 
 
 <h2 align="center"> I am a sophomore pursuing my Bachelor's in Computer Science & Engineering 🎓 
