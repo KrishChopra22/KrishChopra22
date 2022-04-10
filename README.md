@@ -13,7 +13,7 @@
 
 [Here's a message from my side! run this using Bhailang](https://bhailang.js.org/)
 
-<img align="right" alt="Monkey Comder GIF" src="https://user-images.githubusercontent.com/77012237/162477092-ec067cf6-a239-4b9b-8199-a009c645b2c2.gif" height="430" width="400"/></p>
+<img align="right" alt="Monkey Comder GIF" src="https://user-images.githubusercontent.com/77012237/162477092-ec067cf6-a239-4b9b-8199-a009c645b2c2.gif" height="400" width="350"/></p>
   
 ``` 
   hi bhai
