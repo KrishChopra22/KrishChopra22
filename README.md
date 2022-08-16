@@ -43,11 +43,11 @@
 
 </h2>
 
-- 🌱 I’m currently learning everything 😭
-- 👯 I’m looking for remote internships 🌐✈
-- 👀 Working on Mobile App Development 👨‍💻
-- 🥅 2022 Goals: Contribute more to Open Source projects 🌏
-- ⚡ Fun fact: Life's juggling & I'm struggling 😔
+- [x] 🌱 I’m currently learning everything 😭
+- [x] 👯 I’m looking for remote internships 🌐✈
+- [x] 👀 Working on Mobile App Development 👨‍💻
+- [x] 🥅 2022 Goals: Contribute more to Open Source projects 🌏
+- [x] ⚡ Fun fact: Life's juggling & I'm struggling 😔
 
 ### Connect with me:
 
