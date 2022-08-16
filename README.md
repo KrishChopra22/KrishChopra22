@@ -43,8 +43,8 @@
 
 </h2>
 
-- 🌱 I’m currently learning everything 😭🤣
-- 👯 I’m looking to collaborate with others 🤝
+- 🌱 I’m currently learning everything 😭
+- 👯 I’m looking for remote internships 🌐✈
 - 👀 Working on Mobile App Development 👨‍💻
 - 🥅 2022 Goals: Contribute more to Open Source projects 🌏
 - ⚡ Fun fact: I love to do some experiments in life 💥
