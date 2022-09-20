@@ -39,7 +39,7 @@
 ```
 
 
-<h2 align="center"> I am a sophomore pursuing my Bachelor's in Computer Science & Engineering 🎓 
+<h2 align="center"> I am a pre-final year Computer Science & Engineering undergraduate🎓 
 
 </h2>
 
@@ -55,6 +55,7 @@
 <a href="https://twitter.com/krishchopra22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Krish Chopra" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/krishchopra22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Krish Chopra" height="30" width="40" /></a>
 <a href="https://instagram.com/__s_e_c_r_e_t__a_r_t_i_s_t__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Krish Chopra" height="30" width="40" /></a>
+<a href="https://discord.gg/Krish#3024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Krish Chopra" height="30" width="40" /></a>
 <a href="https://youtube.com/channel/UCp8XXwsg-ndmNzKQN7SSLmA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Krish Chopra" height="30" width="40" /></a>
 <br/>
 ***
