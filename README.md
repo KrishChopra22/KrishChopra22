@@ -44,7 +44,7 @@
 </h2>
 
 - [x] 🌱 I’m currently learning everything 😭
-- [x] 👯 I’m looking for remote internships 🌐✈
+- [ ] 👯 I’m looking for remote internships 🌐✈
 - [x] 👀 Working on Mobile App Development 👨‍💻
 - [x] 🥅 2022 Goals: Contribute more to Open Source projects 🌏
 - [x] ⚡ Fun fact: Life's juggling & I'm struggling 😔
