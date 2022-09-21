@@ -1,7 +1,7 @@
 <h1 align="center"> Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="36px" width="29px">, I'm Krish Chopra </h1>
 
 <p align="center">
-<a href="https://github.com/KrishChopra22" target="blank"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF00&width=380&height=45&lines=Open-Source+Enthusiast+❤️;Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+🙃&style=bold&center=true" alt="taking time to load" /></a>
+<a href="https://github.com/KrishChopra22" target="blank"><img src="https://readme-typing-svg.herokuapp.com?color=7DF9FF&width=380&height=45&lines=Open-Source+Enthusiast+❤️;Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+🙃&style=bold&center=true" alt="taking time to load" /></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=krishchopra22&label=Profile%20views&color=301930&style=bold" alt="krishchopra22" /> </p>
@@ -69,12 +69,12 @@
 ![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishchopra22&show_icons=true&locale=en&theme=highcontrast&bg_color=0D1117&hide_border=true&color=FFFF00&icon_color=FFFF00&custom_title=My%20GitHub%20Stats)
 
 # GitHub Activity
-![Krish's GitHub activity](https://github-readme-streak-stats.herokuapp.com/?user=krishchopra22&layout=compact&langs_count=8&theme=highcontrast&hide_border=true&background=0D1117&currStreakLabel=FFFF00&ring=FFFF00&fire=FFFF00&sideLabels=FFFF00)
+![Krish's GitHub activity](https://github-readme-streak-stats.herokuapp.com/?user=krishchopra22&layout=compact&langs_count=8&theme=highcontrast&hide_border=true&background=0D1117&currStreakLabel=7DF9FF&ring=7DF9FF&fire=FFA500&sideLabels=7DF9FF)
 
 # Top Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishChopra22&layout=compact&langs_count=10&theme=highcontrast&bg_color=0D1117&hide_border=true&color=FFFF00)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishChopra22&layout=compact&langs_count=10&theme=highcontrast&bg_color=0D1117&hide_border=true&color=7DF9FF)
 <br>
-![](https://activity-graph.herokuapp.com/graph?username=krishchopra22&theme=react-dark&bg_color=0D1117&hide_border=true&color=FFFF00&line=FFFF00)
+![](https://activity-graph.herokuapp.com/graph?username=krishchopra22&theme=react-dark&bg_color=0D1117&hide_border=true&color=7DF9FF&line=7DF9FF)
 
 
 
