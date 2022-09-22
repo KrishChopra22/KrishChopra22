@@ -72,8 +72,9 @@
 ![Krish's GitHub activity](https://github-readme-streak-stats.herokuapp.com/?user=krishchopra22&layout=compact&langs_count=8&theme=highcontrast&hide_border=true&background=0D1117&currStreakLabel=7DF9FF&ring=7DF9FF&fire=C724B1&sideLabels=7DF9FF)
 
 # Top Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishChopra22&layout=compact&langs_count=10&theme=react&bg_color=0D1117&hide_border=true&color=7DF9FF)
-<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishChopra22&layout=compact&langs_count=10&theme=react&bg_color=0D1117&hide_border=true&color=7DF9FF)<br>
+<b> &nbsp; Note:</b> <i>Top Languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
+<br><br>
 ![](https://activity-graph.herokuapp.com/graph?username=krishchopra22&theme=react-dark&bg_color=0D1117&hide_border=true&color=7DF9FF&line=7DF9FF)
 
 
