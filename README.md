@@ -11,33 +11,12 @@
   
 
 
-[Here's a message from my side! run this using **Bhailang**](https://bhailang.js.org/)
+### Who said.. that's you when the code crashes? ;)<br>
 
-<img align="right" alt="Monkey Comder GIF" src="https://user-images.githubusercontent.com/77012237/162477092-ec067cf6-a239-4b9b-8199-a009c645b2c2.gif" height="400" width="350"/></p>
+<img align="center" alt="Monkey Comder GIF" src="https://user-images.githubusercontent.com/77012237/162477092-ec067cf6-a239-4b9b-8199-a009c645b2c2.gif" height="450"></p>
   
-``` 
-  hi bhai
 
-    bol bhai "kya haal chaal? sab badhiya na?";
-    bhai ye hai meri = "profile", username = "KrishChopra22";
-    
-    jab tak bhai (sahi) {
-        bol bhai "kaisi lagi meri README? 🙃";
-        agar bhai (username != "KrishChopra22"){
-            bol bhai "kya kar raha hai tu!?";
-            agla dekh bhai;
-        }
-        warna bhai {
-            bol bhai "shabaash!!! 🎉";
-            bas kar bhai;
-        }
-    }
-    
-    bol bhai "ye code churayega to nhi? 🌚 aur agar pasand aaya to ⭐ de dena bhai.. theek hai bhai 👋🏻";
-
-  bye bhai  
-```
-
+<br>
 
 <h2 align="center"> I am a pre-final year Computer Science & Engineering undergraduate🎓 
 
