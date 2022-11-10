@@ -15,7 +15,7 @@
 
 <img align="center" alt="Monkey Comder GIF" src="https://user-images.githubusercontent.com/77012237/162477092-ec067cf6-a239-4b9b-8199-a009c645b2c2.gif" height="450"></p>
   
-
+<hr>
 <br>
 
 <h2 align="center"> I am a pre-final year Computer Science & Engineering undergraduate🎓 
