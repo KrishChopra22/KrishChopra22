@@ -30,12 +30,13 @@
 
 ### Connect with me:
 
-<a href="https://www.leetcode.com/krishchopra22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Krish Chopra" height="30" width="40" /></a>
-<a href="https://twitter.com/krishchopra22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Krish Chopra" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/krishchopra22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Krish Chopra" height="30" width="40" /></a>
-<a href="https://instagram.com/__s_e_c_r_e_t__a_r_t_i_s_t__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Krish Chopra" height="30" width="40" /></a>
-<a href="https://discord.gg/Krish#3024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Krish Chopra" height="30" width="40" /></a>
-<a href="https://youtube.com/channel/UCp8XXwsg-ndmNzKQN7SSLmA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Krish Chopra" height="30" width="40" /></a>
+
+<a href="https://www.leetcode.com/krishchopra22" target="blank"><img align="center" src="https://user-images.githubusercontent.com/77012237/210643958-7173f831-4336-4c4b-b1f6-fa421c3086f4.png" alt="Krish Chopra" height="45" width="45" /></a>
+<a href="https://twitter.com/krishchopra22" target="blank"><img align="center" src="https://user-images.githubusercontent.com/77012237/210644352-ed458dee-0c6b-47ad-ab95-6672e788def4.png" alt="Krish Chopra" height="40" width="40" /></a> &nbsp;
+<a href="https://linkedin.com/in/krishchopra22" target="blank"><img align="center" src="https://user-images.githubusercontent.com/77012237/210644597-ea364b18-1651-4e92-abeb-9f342930757d.png" alt="Krish Chopra" height="40" width="40" /></a> &nbsp;
+<a href="https://instagram.com/__s_e_c_r_e_t__a_r_t_i_s_t__" target="blank"><img align="center" src="https://user-images.githubusercontent.com/77012237/210645353-2f790d4d-9661-4a8a-a18e-c80ee457bc77.png" alt="Krish Chopra" height="40" width="40" /></a> &nbsp;
+<a href="https://discord.gg/Krish#3024" target="blank"><img align="center" src="https://user-images.githubusercontent.com/77012237/210645740-52859ca4-2c11-47bc-aafd-f51688f2659d.png" alt="Krish Chopra" height="40" width="40" /></a> &nbsp;
+<a href="https://www.youtube.com/@krishchopra22" target="blank"><img align="center" src="https://user-images.githubusercontent.com/77012237/210645957-302bafd6-9269-477e-a490-982aae1294db.png" alt="Krish Chopra" height="45" width="45" /></a>
 <br/>
 ***
 
@@ -60,6 +61,6 @@
 
 [leetcode]: https://leetcode.com/krishchopra22
 [twitter]: https://twitter.com/krishchopra22
-[youtube]: https://youtube.com/channel/UCp8XXwsg-ndmNzKQN7SSLmA
+[youtube]: https://www.youtube.com/@krishchopra22
 [instagram]: https://instagram.com/__s_e_c_r_e_t__a_r_t_i_s_t__
 [linkedin]: https://linkedin.com/in/krishchopra22
