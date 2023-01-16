@@ -1,4 +1,4 @@
-<h1 align="center"> Hey there <img src="https://user-images.githubusercontent.com/77012237/210244709-b947f82a-5a1f-42cc-953f-254d3decb818.png" height="40" width="36">, I'm Krish Chopra </h1>
+<h1 align="center">&nbsp;&nbsp;Hey there!<img src="https://user-images.githubusercontent.com/77012237/210244709-b947f82a-5a1f-42cc-953f-254d3decb818.png" height="40" width="48"><br>I'm Krish Chopra </h1>
 
 <p align="center">
 <a href="https://github.com/KrishChopra22" target="blank"><img src="https://readme-typing-svg.herokuapp.com?color=7DF9FF&width=380&height=45&font=Roboto+Slab&size=24&lines=Open-Source+Enthusiast+❤️;Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+🙃&style=bold&center=true" alt="taking time to load" /></a>
