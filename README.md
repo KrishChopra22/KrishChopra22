@@ -5,13 +5,12 @@
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=krishchopra22&label=Profile%20views&color=301930&style=bold" alt="krishchopra22" /> </p>
-<p align="center"> <a href="https://twitter.com/krishchopra22" target="blank"><img src="https://img.shields.io/twitter/follow/KrishChopra22?color=00acee&logo=twitter&style=for-the-badge" alt="krishchopra22" /></a>
-
+<p align="center"> <a href="https://twitter.com/krishchopra22" target="blank"><img src="https://img.shields.io/badge/Follow-@%20KrishChopra22-00acee?logo=twitter&style=social" height=25 alt="krishchopra22" /></a>
 <br>
   
 
 
-### Who said that.. it's you when the code crashes? ;)<br>
+### Who said.. that's you when the code crashes? ;)<br>
 
 <img align="center" alt="Monkey Comder GIF" src="https://user-images.githubusercontent.com/77012237/162477092-ec067cf6-a239-4b9b-8199-a009c645b2c2.gif" height="450"></p>
   
