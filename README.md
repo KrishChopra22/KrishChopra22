@@ -7,7 +7,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=krishchopra22&label=Profile%20views&color=301930&style=bold" alt="krishchopra22" /> </p>
 <p align="center"> <a href="https://twitter.com/krishchopra22" target="blank"><img src="https://img.shields.io/badge/Follow-@%20KrishChopra22-00acee?logo=twitter&style=social" height=25 alt="krishchopra22" /></a>
 <br>
-  
+
 
 
 ### Who said.. that's you when the code crashes? ;)<br>
