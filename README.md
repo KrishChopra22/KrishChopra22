@@ -1,7 +1,7 @@
 <h1 align="center">&nbsp;&nbsp;Hey there!<img src="https://user-images.githubusercontent.com/77012237/210244709-b947f82a-5a1f-42cc-953f-254d3decb818.png" height="40" width="48"><br>I'm Krish Chopra </h1>
 
 <p align="center">
-<a href="https://github.com/KrishChopra22" target="blank"><img src="https://readme-typing-svg.herokuapp.com?color=7DF9FF&weight=800&width=380&height=45&font=Kalam&size=24&lines=Open-Source+Enthusiast+❤️;Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+🙃&style=bold&center=true" alt="taking time to load" /></a>
+<a href="https://github.com/KrishChopra22" target="blank"><img src="https://readme-typing-svg.herokuapp.com?color=7DF9FF&weight=800&width=380&height=45&font=Kalam&size=28&lines=Open-Source+Enthusiast+❤️;Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+🙃&style=bold&center=true" alt="taking time to load" /></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=krishchopra22&label=Profile%20views&color=301930&style=bold" alt="krishchopra22" /> </p>
