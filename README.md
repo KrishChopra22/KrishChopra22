@@ -17,15 +17,15 @@
 <hr>
 <br>
 
-<h2 align="center"> I am a pre-final year Computer Science & Engineering undergraduate🎓 
+<h2 align="center"> I am a final year Computer Science & Engineering undergraduate🎓 
 
 </h2>
 
-- [x] 🌱 I’m currently upgrading my skills 💥
-- [ ] 👯 I’m looking for remote internships 🌐✈
-- [x] 👀 Working on Mobile App Development 👨‍💻
-- [x] 🥅 2023 Goals: Contribute more to Open Source projects 🌏
-- [x] ⚡ Fun fact: Life's juggling & I'm struggling 😔
+- [x] 🌱 Currently working as a Flutter Developer intern @ Delta-Apps (building Omeyo💊)
+- [ ] 👯 Open for SDE role 🌐✈
+- [x] 👀 Experience in Mobile App Development 👨‍💻
+- [x] 🥅 2023 Goals: Improve my problem-solving & analytical skills ⚒🧠
+- [x] ⚡ Fun fact: Life's juggling 🤹🏻‍♂️ & I'm struggling 😔
 
 ### Connect with me:
 
