@@ -21,10 +21,10 @@
 
 </h2>
 
-- [x] 🌱 Currently working as a Flutter Developer intern @ Delta-Apps (building Omeyo💊)
-- [ ] 👯 Open for SDE role 🌐✈
+- [x] 🌱 Ex Flutter Developer intern @ Delta-Apps (building Omeyo💊)
+- [x] 👯 Open for SDE role 🌐✈
 - [x] 👀 Experience in Mobile App Development 👨‍💻
-- [x] 🥅 2023 Goals: Improve my problem-solving & analytical skills ⚒🧠
+- [ ] 🥅 2024 Goal: Land a decent job in IT ⚒🧠
 - [x] ⚡ Fun fact: Life's juggling 🤹🏻‍♂️ & I'm struggling 😔
 
 ### Connect with me:
