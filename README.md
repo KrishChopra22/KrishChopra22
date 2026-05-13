@@ -17,14 +17,14 @@
 <hr>
 <br>
 
-<h2 align="center"> I am a final year Computer Science & Engineering undergraduate🎓 
+<h2 align="center"> I'm a SDE | Mobile App Developer, CSE Undergraduate🎓 
 
 </h2>
 
 - [x] 🌱 Ex Flutter Developer intern @ Delta-Apps (building Omeyo💊)
-- [x] 👯 Open for SDE role 🌐✈
+- [x] 👯 Open for crazy SDE roles 🌐✈
 - [x] 👀 Experience in Mobile App Development 👨‍💻
-- [ ] 🥅 2024 Goal: Land a decent job in IT ⚒🧠
+- [ ] 🥅 2026 Goal: Land a decent job in IT ⚒🧠
 - [x] ⚡ Fun fact: Life's juggling 🤹🏻‍♂️ & I'm struggling 😔
 
 ### Connect with me:
